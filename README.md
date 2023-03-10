@@ -1,2 +1,26 @@
 # puzzles
 Tensor Puzzles, CUDA Puzzles, and more
+
+## Speed run for tensor puzzles:
+Finished on 2023/03/10:
+- ones, total length: 28
+- sum, total length: 40
+- outer, total length: 25
+- diag, total length: 52
+- eye, total length: 48
+- triu, total length: 48
+- cumsum, total length: 31
+- diff, total length: 57
+- vstack, total length: 49
+- roll, total length: 31
+- flip, total length: 32
+- compress, total length: 70
+- pad_to, total length: 54
+- sequence_mask, total length: 74
+- bincount, total length: 61
+- scatter_add, total length: 54
+- flatten, total length: 51
+- linspace, total length: 67
+- heaviside, total length: 34
+- repeat, total length: 31
+- bucketize, total length: 71
