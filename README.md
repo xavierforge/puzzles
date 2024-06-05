@@ -1,7 +1,22 @@
-# puzzles
+# Puzzles created by [srush](https://github.com/srush)
 Tensor Puzzles, CUDA Puzzles, and more
 
-## Speed run for tensor puzzles:
+## GPU Puzzles
+<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/github/eatPizza311/puzzles/blob/main/GPU_Puzzlers_Solution.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+## Autodiff Puzzles
+<a target="_blank" href="https://colab.research.google.com/github/eatPizza311/puzzles/blob/main/Autodiff_Puzzlers_Solution.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+## Tensor Puzzles
+<a target="_blank" href="https://colab.research.google.com/github/eatPizza311/puzzles/blob/main/Tensor_Puzzlers_Solution.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+### Speed run for tensor puzzles:
 Finished on 2023/03/10:
 - ones, total length: 28
 - sum, total length: 40
